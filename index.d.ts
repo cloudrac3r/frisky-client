@@ -1,1 +1,2 @@
-export = import("./lib/Frisky")
+import Frisky from "./lib/Frisky"
+export = Frisky
